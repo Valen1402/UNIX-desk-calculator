@@ -2,7 +2,5 @@ Full name: Minh Quang Nguyen
 Student ID: 20190723
 EE209A Assignment 4
 
-- Collab: Binh Vinh Han. I discussed with him about the invalid test cases handling. Also, he reminded me of how to pass varible into functions, as we need it for implementing x operation
-
-- Time: about 2 days ~ 12 hours
-- Assessment: Probably next time you should restrict the use of global variavles. Since it's not restricted, I dont use local variables at all, which of course make my work easier.
+Description:
+https://ee209-2020-fall.github.io/assignment/assignment4/assembly.html
